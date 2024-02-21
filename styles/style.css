@@ -188,6 +188,7 @@
 .card__text {
   font-weight: 400;
   font-size: 20px;
+  line-height: 120%;
   color: #fff;
 }
 
@@ -256,7 +257,7 @@
 /* Footer */
 
 .footer {
-  padding: 171px 58px 89px 62px;
+  padding: 185px 22px 89px 50px;
   display: flex;
   justify-content: space-between;
   font-size: 18px;
